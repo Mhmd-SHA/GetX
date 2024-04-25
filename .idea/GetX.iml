@@ -7,6 +7,12 @@
       <excludeFolder url="file://$MODULE_DIR$/1.indroduction/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/1.indroduction/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/1.indroduction/build" />
+      <excludeFolder url="file://$MODULE_DIR$/2.snackbar/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/2.snackbar/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/2.snackbar/build" />
+      <excludeFolder url="file://$MODULE_DIR$/3.dialog/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/3.dialog/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/3.dialog/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
